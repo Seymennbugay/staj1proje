@@ -4,7 +4,7 @@ Bu proje, C# dili ve SQLite veritabanı kullanılarak geliştirilen, terminal ta
 
 Geliştirici: Seymen Bugay
 Danışman: Dr. Öğr. Üyesi Zekeriya Tüfekci
-Staj Projesi – Yaz 2025
+
 
 
 
